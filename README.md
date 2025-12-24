@@ -8,10 +8,10 @@ Me considero una persona profesional que nunca dejará de estudiar y de ponerse 
 
 <p align="left">
     <a href="https://patriciotorresjara.com" target="_blank"  rel="noopener noreferrer">
-        <img src=" https://custom-icon-badges.demolab.com/badge/Portafolio Web-purple.svg?logo=code&logoColor=fff">
+        <img src="https://img.shields.io/badge/Portafolio%20Web%20-purple?logo=">
     </a>
     <a href="https://linkedin.com/in/patricio-torres-jara" target="_blank"  rel="noopener noreferrer">
-        <img src=" https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=person&logoColor=fff">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?>"
     </a>
 </p>
 
