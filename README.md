@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Bienvenido, soy [LFourOne](https://patriciotorresjara.com)!
 
-<!--
-**LFourOne/LFourOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desarrollador Full-Stack (Especializado en Backend)`**
 
-Here are some ideas to get you started:
+Soy un profesional con experiencia en roles como Sole Engineer/Developer, me destaco en la proactividad y en tomar desafíos de responsabilidad completa del ciclo del desarrollo de software, desde la arquitectura y diseño de la base de datos hasta el despliegue en producción. Mi enfoque como profesional se basa en los valores de construir soluciones escalables, efectivas y de alto impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me considero una persona profesional que nunca dejará de estudiar y de ponerse al día con las mejores prácticas de la industria. Un código no debe escribirse sin entender los fundamentos detrás de cada decisión.
+
+<p align="left">
+    <a href="https://patriciotorresjara.com" target="_blank"  rel="noopener noreferrer">
+        <img src=" https://custom-icon-badges.demolab.com/badge/Portafolio Web-purple.svg?logo=code&logoColor=fff">
+    </a>
+    <a href="https://linkedin.com/in/patricio-torres-jara" target="_blank"  rel="noopener noreferrer">
+        <img src=" https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=person&logoColor=fff">
+    </a>
+</p>
+
+---
+
+## Lenguajes y Herramientas
+
+<img align="left" alt="Python" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="FastAPI" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Flask" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<img align="left" alt="React" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Tailwind CSS" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="PostgreSQL" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
